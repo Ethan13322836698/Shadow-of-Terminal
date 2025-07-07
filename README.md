@@ -19,7 +19,7 @@ Every command and tool used in the game reflects real-world penetration testing 
 ## 核心特色 | Core Features
 
 - 真实命令：如 `nmap -sV`、`sudo apt install`、`hydra` 等，均为原样使用
-- 真实工具：内置类 Unix/Linux 环境，模拟 apt、nmap、hydra、msf 等行为
+- 真实工具：内置类 Windows/Linux/macOS 环境，模拟 apt、nmap、hydra、msf 等行为
 - 拟真流程：信息收集 → 漏洞扫描 → 利用 → 提权 → 数据渗透
 - 命令行交互：无图形化，仅终端操作，要求玩家具备一定技术水平
 - 可用于训练：适合作为学习网络安全或实训辅助平台
